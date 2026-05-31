@@ -101,7 +101,7 @@ Real estate brand identity project.
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://emekadivine-exe.vercel.app">
+<a href="https://emekadivine-exe.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-4F7CFF?style=for-the-badge"/>
 </a>
 
