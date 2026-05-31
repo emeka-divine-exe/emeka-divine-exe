@@ -97,7 +97,7 @@ Real estate brand identity project.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/emekadivine.exe">
+<a href="https://x.com/emekadivine_exe">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
