@@ -79,18 +79,6 @@ Real estate brand identity project.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emeka-divine-exe&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeka-divine-exe&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## Current Goals
 
 - Build stronger React applications
