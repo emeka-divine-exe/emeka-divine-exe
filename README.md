@@ -93,15 +93,15 @@ Real estate brand identity project.
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/chukwuemeka-divine-chikezie-7a6992370">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com">
+<a href="https://x.com/emekadivine.exe">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://emekadivine.netlify.app">
+<a href="https://emekadivine-exe.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-4F7CFF?style=for-the-badge"/>
 </a>
 
