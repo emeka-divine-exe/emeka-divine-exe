@@ -1,16 +1,130 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**emeka-divine-exe/emeka-divine-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Emeka Divine
 
-Here are some ideas to get you started:
+### I Design. I Code. I Build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Developer • Brand Designer • Future Full-Stack Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=4F7CFF&center=true&vCenter=true&width=600&lines=Building+brands+that+look+like+they+mean+it.;Frontend+Developer.;Brand+Identity+Designer.;Learning+Next.js+and+Node.js.;Future+Software+Engineer." />
+
+</div>
+
+---
+
+## About Me
+
+```yaml
+name: Emeka Divine
+brand: emekadivine.exe
+role: Frontend Developer & Brand Designer
+
+currently_learning:
+  - Next.js
+  - Node.js
+  - Backend Development
+
+specialties:
+  - Brand Identity Design
+  - React Development
+  - UI Design
+  - Personal Branding
+
+mission:
+  Build digital experiences that combine
+  strong design with clean code.
+```
+
+---
+
+## Tech Stack
+
+### Current Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,git,github,vscode,figma" />
+
+</p>
+
+---
+
+### Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
+
+</p>
+
+---
+
+## Featured Projects
+
+### Gifted Luxe
+
+Luxury fashion brand identity system.
+
+### GDC Villa Hotel
+
+Modern hospitality branding project.
+
+### De Goa City Club
+
+Premium nightlife and entertainment branding.
+
+### Divine Homes
+
+Real estate brand identity project.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emeka-divine-exe&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeka-divine-exe&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## Current Goals
+
+- Build stronger React applications
+- Learn Next.js deeply
+- Learn Node.js backend development
+- Become a Full-Stack Developer
+- Grow into Software Engineering
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://emekadivine.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-4F7CFF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### emekadivine.exe
+
+Building the visuals that make businesses look like they mean it.
+
+</div>
